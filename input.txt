@@ -1,0 +1,7 @@
+y= 1
+n= 1
+k= 0.5
+p= 1
+tax= 0.02
+scenario= dream
+noise= True
